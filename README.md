@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://personal-portfolio-pylk60g3e-aloks-projects-3ced3814.vercel.app/](https://personal-portfolio-pylk60g3e-aloks-projects-3ced3814.vercel.app/)
 
-- 💬 Ask me about **React, Java Script**
+- 💬 Ask me about **React, Java Script,Spring Boot**
 
 - 📫 How to reach me **alokmattihalli@gmail.com**
 
